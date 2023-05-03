@@ -410,7 +410,7 @@ footer .global-wrapper h2 {
 }
 footer .global-wrapper {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   justify-content: space-between;
 }
 footer span {
